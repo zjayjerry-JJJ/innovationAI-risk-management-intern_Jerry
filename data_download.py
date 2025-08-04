@@ -24,6 +24,7 @@ fred = Fred(api_key='80ed660e9d2d6c9c9583c4783a0d2240')
 #2. Macro data
 #GDP
 gdp = fred.get_series('GDP').resample('Q-DEC').last()
+gdp = gdp.to_frame(name='gdp')
 gdp.to_csv('gdp.csv')
 print("GDP data has been saved in gdp.csv")
 #CPI
