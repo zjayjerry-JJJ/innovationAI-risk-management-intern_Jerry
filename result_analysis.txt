@@ -1,0 +1,52 @@
+Interpretation: Macro Conditions and Sector Performance
+
+
+1. Economic Expansion Periods (GDP Growth > 2%, Rising CPI, Rising Rates)
+
+Favored Sectors:
+
+XLF (Financials): Benefited from rising interest rates, which improved net interest margins.
+
+XLI (Industrials) & XLB (Materials): Cyclical sectors that performed well during economic acceleration.
+
+Observation: During 2016-2018 and post-COVID recovery (2021), these sectors were frequently ranked in the top 3.
+
+
+2. Economic Slowdown or Recession (GDP < 1%, Falling CPI, Fed Rate Cuts)
+
+Favored Sectors:
+
+XLU (Utilities) & XLP (Consumer Staples): Defensive sectors that held up during uncertainty.
+
+XLV (Healthcare): Stable demand and less sensitivity to macro cycles.
+
+Observation: In 2015, 2020 (COVID shock), and late 2022, the strategy rotated into these defensives.
+
+
+3. High Inflation (CPI > 4%)
+
+Favored Sectors:
+
+XLE (Energy): Outperformed due to rising commodity prices.
+
+XLB (Materials): Also performed well as inflation hedge.
+
+Observation: In 2022, as inflation surged, Energy and Materials dominated the top allocation.
+
+
+4. Low Interest Rate Environment (Rates < 1%)
+
+Favored Sectors:
+
+XLK (Technology): Low rates increased valuation attractiveness of growth stocks.
+
+XLC (Communication Services): Also benefited from growth bias.
+
+Observation: From 2019 through mid-2021, Tech and Communication sectors were overweighted.
+
+
+
+Conclusion:
+1.The sector rotation strategy largely matches macroeconomic expectations. 
+2.Cyclical sectors perform best during economic growth, while defensive sectors offer protection in slowdowns. 
+3.Commodities help during inflation, and growth sectors thrive when interest rates are low.

@@ -72,5 +72,11 @@ prices.to_sql('sector_prices', conn, if_exists='replace', index=False)
 
 conn.close()
 
+#spy
+spy = yf.download('SPY', start='2015-01-01', end='2024-12-31', interval='1mo', group_by='ticker')
 
+spy_close = spy[('SPY', 'Close')]  
+spy_close.name = 'SPY'
 
+spy_close.to_frame().to_csv('spy_monthly.csv')
+print("spy prices has been saved as spy_monthly.csv")

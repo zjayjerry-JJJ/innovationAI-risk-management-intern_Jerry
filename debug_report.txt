@@ -1,0 +1,46 @@
+ Step 1: Data Loaded
+Prices shape: (2516, 11)
+Weights shape: (120, 11)
+📌 Step 2: Index aligned
+Index aligned? True
+ Step 3: Portfolio Calculated
+Total Return: -7.73%
+Max Drawdown: -16.27%
+CAGR: -0.80%
+Sharpe Ratio: -0.06
+Avg Monthly Return: -0.0000
+Avg Turnover: 0.0664
+Max Turnover: 1.0000
+
+ Sample Portfolio Value:
+Date
+2015-01-02    1000000.0
+2015-01-05    1000000.0
+2015-01-06    1000000.0
+2015-01-07    1000000.0
+2015-01-08    1000000.0
+dtype: float64
+
+ Sample Returns:
+Date
+2015-01-02    0.0
+2015-01-05    0.0
+2015-01-06    0.0
+2015-01-07    0.0
+2015-01-08    0.0
+dtype: float64
+
+ Sample Weights:
+            XLB  XLC  XLE  XLF  XLI  XLK  XLP  XLRE  XLU  XLV  XLY
+Date                                                              
+2015-01-02  0.0  0.0  0.0  0.0  0.0  0.0  0.0   0.0  0.0  0.0  0.0
+2015-01-05  0.0  0.0  0.0  0.0  0.0  0.0  0.0   0.0  0.0  0.0  0.0
+
+ Sample Turnover:
+Date
+2015-01-02    0.0
+2015-01-05    0.0
+2015-01-06    0.0
+2015-01-07    0.0
+2015-01-08    0.0
+dtype: float64
