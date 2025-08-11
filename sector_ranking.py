@@ -43,6 +43,7 @@ def max_drawdown(series):
     drawdown = (series - cum_max)/cum_max
     return drawdown.min()
 
+
 #equally weighted
 weights = pd.DataFrame(index=score.index, columns=score.columns)
 for date in score.index:
